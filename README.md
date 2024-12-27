@@ -28,8 +28,8 @@ This project explores the transferability of blind backdoor attacks in Multi-Sta
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone <repository-link>
-   cd <repository-name>
+   git clone https://github.com/bryaz7/BlindBackdoorAttack-MSTL
+   cd BlindBackdoorAttack-MSTL
    ```
 
 2. Install required dependencies:
